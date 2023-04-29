@@ -22,6 +22,11 @@ set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scr
 set fileName=taskkill.bat
 goto InstallScript
 )
+if not exist scripts\CookieClicker.bat (
+set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scripts/CookieClicker.bat
+set fileName=CookieClicker.bat
+gotoInstallScript
+)
 del Downloader.bat
 exit
 
