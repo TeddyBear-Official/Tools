@@ -17,4 +17,11 @@ set /p record=""
 if %record%==1 (
 start scripts\Message.bat
 )
+if %record%==2 (
+start scripts\taskkill.bat
+exit
+)
+if %record%==0 (
+exit
+) 
 pause > nul
