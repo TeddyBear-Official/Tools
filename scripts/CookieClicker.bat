@@ -1,5 +1,5 @@
 @echo off
 title Cookie Clicker
 echo Make sure to make your name "Isaysopensesame"!
-open(https://cookieclickerunblocked.github.io/)
+start(https://cookieclickerunblocked.github.io/)
 pause > nul
