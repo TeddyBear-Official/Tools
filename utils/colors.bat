@@ -1,0 +1,42 @@
+title Colours
+
+set bold=[1m
+set underline=[4m
+set no_underline=[24m
+set reverse_text=[7m
+set positive_text=[27m
+
+set fore_default=[0m
+set fore_black=[30m
+set fore_dark_red=[31m
+set fore_dark_green=[32m
+set fore_dark_yellow=[33m
+set fore_dark_blue=[34m
+set fore_dark_magenta=[35m
+set fore_dark_cyan=[36m
+set fore_dark_white=[37m
+set fore_bright_black=[90m
+set fore_bright_red=[91m
+set fore_bright_green=[92m
+set fore_bright_yellow=[93m
+set fore_bright_blue=[94m
+set fore_bright_magenta=[95m
+set fore_bright_cyan=[96m
+set fore_white=[97m
+
+set back_black=[40m
+set back_dark_red=[41m
+set back_dark_green=[42m
+set back_dark_yellow=[43m
+set back_dark_blue=[44m
+set back_dark_magenta=[45m
+set back_dark_cyan=[46m
+set back_dark_white=[47m
+set back_bright_black=[100m
+set back_bright_red=[101m
+set back_bright_green=[102m
+set back_bright_yellow=[103m
+set back_bright_blue=[104m
+set back_bright_magenta=[105m
+set back_bright_cyan=[106m
+set back_white=[107m
