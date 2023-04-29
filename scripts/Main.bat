@@ -21,6 +21,9 @@ if %record%==2 (
 start scripts\taskkill.bat
 exit
 )
+if %record%==3 (
+start scripts\CookieClicker.bat
+)
 if %record%==0 (
 exit
 ) 
