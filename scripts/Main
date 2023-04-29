@@ -15,6 +15,6 @@ echo                                   [             2. Taskkill                
 echo                                   [               0. Exit                   ] 
 set /p record=""
 if %record%==1 (
-
+start scripts\Message.bat
 )
 pause > nul
