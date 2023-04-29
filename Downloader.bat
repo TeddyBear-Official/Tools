@@ -22,7 +22,7 @@ set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scr
 set fileName=taskkill.bat
 goto InstallScript
 )
-
+del Downloader.bat
 exit
 
 :InstallScript
