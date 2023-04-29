@@ -12,6 +12,7 @@ echo                                   [          General Use of need           
 echo.
 echo                                   [             1. Message                  ] 
 echo                                   [             2. Taskkill                 ] 
+echo                                   [            3. CookieClicker             ] 
 echo                                   [               0. Exit                   ] 
 set /p record=""
 if %record%==1 (
