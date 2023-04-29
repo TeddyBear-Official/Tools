@@ -27,7 +27,8 @@ set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scr
 set fileName=CookieClicker.bat
 goto InstallScript
 )
-if not exist Downloader.bat ( del Downloader.cmd ) else ( Downloader.bat )
+if not exist Downloader.bat ( del Downloader.cmd )
+if not exist Download.cmd ( del Downloader.bat )
 exit
 
 :InstallScript
