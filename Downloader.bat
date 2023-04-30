@@ -34,7 +34,7 @@ goto InstallScript
 )
 if not exist scripts\secondthemedownloader.bat (
 set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scripts/secondthemedownloader.bat
-set fileName=CookieClicker.bat
+set fileName=secondthemedownloader.bat
 goto InstallScript
 )
 if not exist Downloader.bat ( del Downloader.cmd )
