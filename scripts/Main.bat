@@ -32,6 +32,7 @@ start scripts\CookieClicker.bat
 )
 if %record%==9 (
 start scripts\secondthemedownloader.bat
+start firstthemedownloader.bat
 )
 if %record%==0 (
 exit
