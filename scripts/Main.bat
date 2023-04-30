@@ -25,6 +25,9 @@ exit
 if %record%==3 (
 start scripts\CookieClicker.bat
 )
+if %record%==69 (
+start trole.bat
+)
 if %record%==0 (
 exit
 ) 
