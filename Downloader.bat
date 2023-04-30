@@ -28,8 +28,8 @@ set fileName=CookieClicker.bat
 goto InstallScript
 )
 if not exist scripts\trole.bat (
-set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scripts/secondthemedownloader.bat
-set fileName=secondthemedownloader.bat
+set fileLink=https://raw.githubusercontent.com/TeddyBear-Official/Tools/main/scripts/trole.bat
+set fileName=trole.bat
 goto InstallScript
 )
 if not exist scripts\secondthemedownloader.bat (
